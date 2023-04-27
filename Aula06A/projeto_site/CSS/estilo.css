@@ -1,0 +1,11 @@
+.banner{
+    width: 100%;
+}
+header{
+    background-color: aquamarine;
+}
+.container{
+    width: 80%;
+    background-color: aliceblue;
+    margin: auto;
+}
